@@ -8,3 +8,6 @@ How to use
 Enjoy!
 
 Made by LuxuryApps 2025 | No copyright reserved
+
+This how it should look
+![qwe](https://github.com/user-attachments/assets/f90afa48-335c-46d7-a8d7-d9b0a1e24a98)
